@@ -1,7 +1,8 @@
 # AEBD - Databases Administration and Exploration
 
-Collaborators:
+Contributors:
 
+  * João Almeida;
   * [Luís Fernandes](https://github.com/SkyBad20);
   * Maria Ana Brito.
   
