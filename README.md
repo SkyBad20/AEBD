@@ -4,7 +4,7 @@ Contributors:
 
   * João Almeida;
   * [Luís Fernandes](https://github.com/SkyBad20);
-  * Maria Ana Brito.
+  * Maria Ana de Brito.
   
   
   Note:
